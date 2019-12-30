@@ -1,0 +1,2 @@
+include ':app', ':androidlibs', ':JavaLibs'
+rootProject.name='PublicLibrary'
